@@ -1,1 +1,1 @@
-# End-to-end-medical-chatbox
+# AI resume screening system
